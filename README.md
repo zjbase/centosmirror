@@ -1,5 +1,5 @@
 # centosmirror
-
+·
 清华大学的镜像
 
 [base]
@@ -53,3 +53,4 @@ enabled=1
 failovermethod=priority
 baseurl=https://archives.fedoraproject.org/pub/archive/epel/6/x86_64/
 gpgcheck=0
+·
